@@ -9,3 +9,12 @@ The photo below shows the individual printed parts:
 * Bottom/cover
 
 ![parts](https://github.com/woodwerk/3Dprint_volume_knob/blob/master/media/printed_parts.png)
+
+Next is a view of the rotary encoder wired to the Ardunio Micro Pro mounted in its box. 
+
+;![](https://github.com/woodwerk/3Dprint_volume_knob/blob/master/media/circuit.png)
+
+Finally, the finished product
+
+
+;![](https://github.com/woodwerk/3Dprint_volume_knob/blob/master/media/assembled.png)
